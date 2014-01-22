@@ -1,0 +1,3 @@
+h1. Imagick/Imagemagick Installation on MAMP/MAMP Pro
+
+See the "Wiki":https://github.com/jdlx/install_Imagick_on_MAMP/wiki/Imagick-for-MAMP-Pro---installation-guide for the install guide.
